@@ -1,0 +1,15 @@
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\bin\Debug\net6.0\ExemploTest.exe
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\bin\Debug\net6.0\ExemploTest.deps.json
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\bin\Debug\net6.0\ExemploTest.runtimeconfig.json
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\bin\Debug\net6.0\ExemploTest.dll
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\bin\Debug\net6.0\ref\ExemploTest.dll
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\bin\Debug\net6.0\ExemploTest.pdb
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.csproj.AssemblyReference.cache
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.AssemblyInfo.cs
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.dll
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ref\ExemploTest.dll
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.pdb
+C:\Users\junio\Desktop\workspace\Desafio Git\dio-desafio-github\VSCode\ExemploTest\obj\Debug\net6.0\ExemploTest.genruntimeconfig.cache
